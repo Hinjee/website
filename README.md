@@ -1,2 +1,2 @@
-# website
-website practice
+# jinhee's website
+personal website practice
